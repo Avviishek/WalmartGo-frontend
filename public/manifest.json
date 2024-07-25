@@ -1,0 +1,25 @@
+{
+  "short_name": "WalmartGo",
+  "name": "WalmartGo",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Walmart_Spark.svg/113px-Walmart_Spark.svg.png?20200410141145",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Walmart_Spark.svg/113px-Walmart_Spark.svg.png?20200410141145",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Walmart_Spark.svg/113px-Walmart_Spark.svg.png?20200410141145",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
