@@ -1,11 +1,10 @@
-import logo from './logo.png';
 import './App.css';
-
+import IndexPage from "./components/IndexPage"
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Hello</p>
+        <IndexPage />
       </header>
     </div>
   );
