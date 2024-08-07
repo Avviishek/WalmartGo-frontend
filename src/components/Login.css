@@ -32,15 +32,14 @@
 }
 
 .login-title {
-    font-size: 64px; /* Made the text very large */
+    font-size: 80px; /* Made the text very large */
     font-weight: bold;
     margin: 0;
 }
 
 .login-tagline {
-    font-size: 25px;
-    font-weight: bold;
-    margin: 10px 0 0;
+    font-size: 30px;
+    margin: 0;
     color: black; /* Changed the color to black */
 }
 
