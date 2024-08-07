@@ -1,7 +1,6 @@
 import React from "react";
 import "./Login.css";
 import warehouse from "./images/warehouse.png";
-import warehousebg from "./images/warehousebg.jpg"
 const Login = () => {
   return (
     <div className="login-container">
